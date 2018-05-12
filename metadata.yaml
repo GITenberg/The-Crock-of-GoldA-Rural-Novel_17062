@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6801
     wikipedia: http://en.wikipedia.org/wiki/Martin_Farquhar_Tupper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17062#The-Crock-of-GoldA-Rural-Novel
 gutenberg_issued: '2005-11-14'
 gutenberg_type: Text
 identifiers:
